@@ -1,0 +1,42 @@
+/*------------------------------------------NAVIGATION BAR------------------------------------*/
+.contant {
+  background-color: rgb(12, 5, 66);
+  text-align:;
+  color: aliceblue;
+}
+.topnav {
+    
+    display: flex;
+    justify-content: center;
+    background-color: rgb(3, 8, 18);
+    padding: 60px 140px 10px 70px;
+    border-bottom: 3px solid rgb(11, 3, 3);
+    top:0%;
+    width:90%;
+    position: fixed;
+}
+  .logo
+  {
+    color:#919395;
+  }
+
+  .topnav a.active {
+    font-size: 40px;
+    font-weight: 900 ;
+  }
+.slides{
+  align-self: center;
+}
+  
+  
+  
+  
+ 
+  
+  
+ 
+  
+  
+  
+
+
